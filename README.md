@@ -69,7 +69,7 @@ python ipc_vectordb_builder.py
 
 6. **Run the application**
 ```bash
-streamlit run app_enhanced.py
+streamlit run app.py
 ```
 
 7. **Open in browser**
@@ -89,30 +89,21 @@ http://localhost:8501
 
 ```
 Multi-Agent-Legal-Assistance-System/
-├── agents/                 # CrewAI Agent definitions
-│   ├── case_intake_agent.py
-│   ├── ipc_section_agent.py
-│   ├── legal_precedent_agent.py
-│   ├── legal_drafter_agent.py
-│   ├── document_validator_agent.py
-│   ├── document_analyzer_agent.py
-│   ├── document_drafter_agent.py
-│   └── document_formatter_agent.py
+├── agents/                 # CrewAI Agent definitions (8 agents)
 ├── tasks/                  # CrewAI Task definitions
-├── tools/                  # Custom tools
-│   ├── ipc_sections_search_tool.py
-│   ├── legal_precedent_search_tool.py
-│   └── pdf_generator.py
-├── templates/              # Legal document templates
+├── tools/                  # Custom tools (IPC search, precedent search, PDF)
+├── templates/              # Legal document templates (11 templates)
 ├── utils/                  # Utilities (logging, validation, exceptions)
 ├── tests/                  # Test suite
-├── app_enhanced.py         # Streamlit Web UI
+├── docs/                   # Documentation
+├── app.py                  # Streamlit Web UI
 ├── crew.py                 # Legal Assistant Crew
 ├── document_crew.py        # Document Drafting Crew
 ├── ipc.json                # IPC sections data (575 sections)
 ├── ipc_vectordb_builder.py # Vector DB builder
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Environment template
+├── LICENSE                 # MIT License
 └── README.md               # This file
 ```
 
