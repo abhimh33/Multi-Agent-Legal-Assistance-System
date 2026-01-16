@@ -124,7 +124,7 @@ python test_project.py
 
 ```bash
 # Run the Streamlit web application
-streamlit run app_enhanced.py
+streamlit run app.py
 
 # Or run the CLI version
 python main.py
@@ -176,7 +176,7 @@ EXPORT_DIRECTORY=exports
 ### 1. Web Application (Recommended)
 
 ```bash
-streamlit run app_enhanced.py
+streamlit run app.py
 ```
 
 The web app provides four modes:
@@ -445,8 +445,7 @@ tail -f logs/app.log
 
 ```
 multi-agent-legal-assistant/
-├── app.py                    # Original Streamlit app
-├── app_enhanced.py           # Enhanced Streamlit app with all features
+├── app.py                    # Streamlit web application
 ├── main.py                   # CLI entry point
 ├── crew.py                   # Legal assistant crew definition
 ├── document_crew.py          # Document drafting crew definition

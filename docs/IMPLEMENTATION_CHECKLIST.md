@@ -73,7 +73,7 @@
 
 ### User Guides
 - [x] `QUICKSTART.md` - 5-minute setup guide
-- [x] `README_ENHANCED.md` - Complete feature documentation
+- [x] `README.md` - Complete feature documentation
 - [x] `EXPANSION_SUMMARY.md` - What was added
 - [x] `PROJECT_STATUS.md` - System status
 
@@ -207,7 +207,7 @@
 
 ✅ Documentation
    ✅ QUICKSTART.md (NEW - 5-min guide)
-   ✅ README_ENHANCED.md (NEW - Complete guide)
+   ✅ README.md (Complete guide)
    ✅ EXPANSION_SUMMARY.md (NEW - What was added)
    ✅ PROJECT_STATUS.md (Updated)
 ```

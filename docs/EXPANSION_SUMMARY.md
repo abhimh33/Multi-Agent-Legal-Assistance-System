@@ -35,7 +35,7 @@ Successfully added comprehensive legal document drafting capabilities to your AI
   - `main.py` - Analyze criminal cases (original, still works)
 
 ### Documentation
-- `README_ENHANCED.md` - Complete guide with features, usage, troubleshooting
+- `README.md` - Complete guide with features, usage, troubleshooting
 - `PROJECT_STATUS.md` - Status report
 
 ---
@@ -147,7 +147,7 @@ test_project.py          ✏️ Updated - Tests new components
 
 ### Documentation Files (2)
 ```
-README_ENHANCED.md       📖 Complete guide
+README.md                📖 Complete guide
 PROJECT_STATUS.md        📊 Status report
 ```
 

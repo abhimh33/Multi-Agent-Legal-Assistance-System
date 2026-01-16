@@ -218,7 +218,7 @@ A: Download TXT and print to PDF using browser.
 
 ## 📚 Detailed Docs
 
-- **README_ENHANCED.md** - Complete feature guide
+- **README.md** - Complete feature guide
 - **EXPANSION_SUMMARY.md** - What was added
 - **PROJECT_STATUS.md** - System status report
 

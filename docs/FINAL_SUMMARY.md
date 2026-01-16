@@ -230,7 +230,7 @@ project-root/
 ├── ⚙️  🆕 document_crew.py   (Document generation crew)
 │
 ├── 📖 QUICKSTART.md        (5-minute guide)
-├── 📖 README_ENHANCED.md   (Complete guide)
+├── 📖 README.md            (Complete guide)
 ├── 📖 EXPANSION_SUMMARY.md (What was added)
 ├── 📖 IMPLEMENTATION_CHECKLIST.md (Verification)
 ├── 📖 PROJECT_STATUS.md    (Status report)
@@ -398,14 +398,14 @@ streamlit run app.py
 
 📖 **Documentation:**
 - QUICKSTART.md - Quick start guide
-- README_ENHANCED.md - Full documentation
+- README.md - Full documentation
 - EXPANSION_SUMMARY.md - What's new
 
 🧪 **Testing:**
 - python test_project.py - Verify setup
 
 🆘 **Troubleshooting:**
-- Check README_ENHANCED.md FAQ section
+- Check README.md FAQ section
 - Verify .env file has correct API keys
 - Reinstall requirements if needed
 
@@ -482,7 +482,7 @@ streamlit run app.py
 
 Check these files in order:
 1. **QUICKSTART.md** - Quick answers
-2. **README_ENHANCED.md** - Complete guide
+2. **README.md** - Complete guide
 3. **test_project.py** - Verify system
 4. **PROJECT_STATUS.md** - System info
 
