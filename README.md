@@ -152,6 +152,49 @@ What legal action can I take?
 3. **Structured Templates**: Pre-defined legal document templates
 4. **Input Validation**: Validates user input before processing
 
+## 🚀 Future Enhancements (Contributions Welcome!)
+
+We have exciting features planned for future releases. **Contributors are welcome!**
+
+### 📚 Expand Legal Database (RAG)
+Add more Indian laws to the vector database for comprehensive legal coverage:
+
+| Law | Description | Status |
+|-----|-------------|--------|
+| **CrPC** | Criminal Procedure Code | 🔲 Planned |
+| **CPC** | Civil Procedure Code | 🔲 Planned |
+| **Indian Contract Act** | Contract law provisions | 🔲 Planned |
+| **Consumer Protection Act** | Consumer rights & remedies | 🔲 Planned |
+| **Labour Laws** | Employment & worker rights | 🔲 Planned |
+| **RERA** | Real Estate Regulation Act | 🔲 Planned |
+| **Motor Vehicles Act** | Traffic & accident laws | 🔲 Planned |
+| **IT Act** | Cyber laws | 🔲 Planned |
+
+### 🧠 Adaptive Learning Memory
+Implement intelligent memory system for personalized experience:
+
+- **User Preferences**: Learn document style preferences per user
+- **Feedback Loop**: Users rate responses → System improves accuracy
+- **Context Awareness**: Remember previous cases for better suggestions
+- **Personalization**: Adapt to user's specific legal domain expertise
+
+### 🔐 User Authentication & History
+Add user management for tracking and personalization:
+
+- **OAuth Login**: Google/GitHub authentication for easy access
+- **User History**: Track past queries and generated documents
+- **Feedback Collection**: Gather user ratings for model improvement
+- **Usage Analytics**: Insights for training and accuracy improvement
+
+### 📊 Additional Features
+- **Multi-language Support**: Hindi, Tamil, Telugu, etc.
+- **Voice Input**: Speech-to-text for queries
+- **Document Comparison**: Compare legal documents
+- **Case Timeline**: Visual timeline for case tracking
+- **Lawyer Connect**: Integration with legal professionals
+
+> 💡 **Want to contribute?** Pick any feature above and submit a PR!
+
 ## ⚠️ Disclaimer
 
 This tool is for **informational purposes only** and does not constitute legal advice. Always consult a qualified legal professional for official legal matters.
