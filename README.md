@@ -7,6 +7,24 @@ An AI-powered legal assistant built with **CrewAI**, **Groq LLaMA 3.3**, and **R
 ![Groq](https://img.shields.io/badge/LLM-Groq%20LLaMA%203.3-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+---
+
+## 📸 Demo Screenshots
+
+### 1. User Interface - Enter Your Legal Query
+![User Interface](assets/screenshots/01_user_interface.png)
+
+### 2. Processing - AI Agents Working
+![Processing](assets/screenshots/02_processing.png)
+
+### 3. Generated Legal Document
+![Generated Document](assets/screenshots/03_generated_document.png)
+
+### 4. Download Options (TXT & PDF)
+![Download Options](assets/screenshots/04_download_options.png)
+
+---
+
 ## 🌟 Features
 
 ### 📄 Document Generation
