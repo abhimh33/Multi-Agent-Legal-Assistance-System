@@ -123,10 +123,10 @@ Multi-Agent-Legal-Assistance-System/
 I need a rental agreement for my apartment.
 
 Details:
-- Landlord: Rajesh Kumar
-- Tenant: Priya Sharma
+- Landlord: Mr.Abhi M
+- Tenant: Mr.XYZ
 - Rent: Rs. 25,000/month
-- Property: Flat 301, Green Valley, Delhi
+- Property: Flat 301, Whitefield, Bengaluru
 - Duration: 11 months
 ```
 
